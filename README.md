@@ -1,4 +1,4 @@
- 🎲 Dice Roll Web App
+### 🎲 Dice Roll Web App
 
 A simple, interactive dice roller application built with HTML, CSS, and JavaScript.
 ___________________________________________________________________________________
