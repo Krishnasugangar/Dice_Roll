@@ -22,7 +22,7 @@ ________________________________________________________________________________
 2. Watch the dice animate and settle on random values
 3. See your total score highlighted
 ___________________________________________________________________________________
-Installation 📥
+Installation  📥
 
 git clone https://github.com/krishnasugangar/dice_roll.git
 
