@@ -2,7 +2,7 @@
 
 A simple, interactive dice roller application built with HTML, CSS, and JavaScript.
 ___________________________________________________________________________________
-Live Demo link : https://krishnasugangar.github.io/Dice_Roll/ [ click here to view ]
+Live Demo link  : https://krishnasugangar.github.io/Dice_Roll/ [ click here to view ]
 
 ___________________________________________________________________________________
   Features ✨
