@@ -14,8 +14,8 @@ ________________________________________________________________________________
 - Keyboard accessible (Space/Enter to roll)
 ___________________________________________________________________________________
   Technologies Used 🛠️ 
-- **Frontend**: HTML5, CSS3, JavaScript
-- **Version Control**: Git/GitHub
+- **Frontend** : HTML5, CSS3, JavaScript
+- **Version Control** : Git/GitHub
 ___________________________________________________________________________________
    How to Use 🚀
 1. Click the "Roll" button (or press Space/Enter)
