@@ -10,7 +10,7 @@ ________________________________________________________________________________
 - Realistic dice rolling animation
 - Calculates and displays the total sum
 - Visual feedback for high/low scores
-- Clean, responsive design
+- Clean, responsive design.
 - Keyboard accessible (Space/Enter to roll)
 ___________________________________________________________________________________
   Technologies Used 🛠️ 
